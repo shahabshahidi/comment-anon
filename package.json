@@ -20,9 +20,15 @@
     "postcss": "8.4.49",
     "react": "18.3.1",
     "react-dom": "18.3.1",
+    "react-query": "^3.39.3",
     "sqlstring": "^2.3.3",
     "tailwindcss": "3.4.15",
     "typescript": "5.7.2",
+    "uuid": "^11.0.3",
     "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/sqlstring": "^2.3.2",
+    "@types/uuid": "^10.0.0"
   }
 }
